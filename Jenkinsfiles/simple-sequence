@@ -1,0 +1,11 @@
+node {
+    stage('Build') {
+        // Build steps
+    }
+    stage('Test') {
+        // Test steps
+    }
+    stage('Deploy') {
+        // Deployment steps
+    }
+}
